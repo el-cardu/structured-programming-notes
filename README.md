@@ -1,4 +1,4 @@
-# :x: Segmentation Fault 101, a.k.a., Structured Programming
+# :x: SegFault 101, a.k.a., Structured Programming
 
 <p align="center"
 
@@ -10,6 +10,44 @@
 
 ## Websites
 
+- [Emilio de Camargo Francesquini](http://professor.ufabc.edu.br/~e.francesquini/2018.q3.pe/)
+- [Paulo Henrique Pisani](http://professor.ufabc.edu.br/~paulo.pisani/)
+- [Carla Negri Lintzmayer](http://professor.ufabc.edu.br/~carla.negri/cursos/2018Q3-PE/)
+- [Mario Alexandre Gazziro](http://professor.ufabc.edu.br/~mario.gazziro/)
+- [João Henrique Kleinschmidt](http://professor.ufabc.edu.br/~joao.kleinschmidt/prog2018.html)
+
+---
+
+## Scheduled Lectures + Office Hours (2018.3)
+
+**Scheduled Lectures**
+
+|  Course Number  | Meeting Time | Classroom Location |
+| :-----------------------: | :--------------------------: | :--------------------: |
+| A1D | Wed (10:00 - 12:00) <br/> Thu (08:00 - 10:00) | S-311-1/L-409-2 |
+| A2D | Wed (10:00 - 12:00) <br/> Thu (08:00 - 10:00) | S-311-1/L-404-2 |
+| A3D | Wed (10:00 - 12:00) <br/> Thu (08:00 - 10:00) | S-306-2/L-407-2 |
+| B1D | Mon (10:00 - 12:00) <br/> Thu (08:00 - 10:00) | S-311-1/L506 |
+| B2D | Mon (10:00 - 12:00) <br/> Thu (08:00 - 10:00) | S-311-1/L502 |
+| C1D | Mon (17:00 - 19:00) <br/> Thu (17:00 - 19:00) | S-006-0/L502 |
+| C2D | Mon (17:00 - 19:00) <br/> Thu (17:00 - 19:00) | S-006-0/L506 |
+| C3D | Mon (17:00 - 19:00) <br/> Thu (17:00 - 19:00) | S-301-2/L501 |
+| C4D | Mon (17:00 - 19:00) <br/> Thu (17:00 - 19:00) | S-301-2/L505 |
+| C5D | Mon (17:00 - 19:00) <br/> Thu (17:00 - 19:00) | S-306-1/L-407-2 |
+| A1N | Wed (21:00 - 23:00) <br/> Thu (19:00 - 21:00) | S-301-1/L-409-2 |
+| A2N | Wed (21:00 - 23:00) <br/> Thu (19:00 - 21:00) | S-301-1/L-404-2 |
+| A3N | Wed (21:00 - 23:00) <br/> Thu (19:00 - 21:00) | S-106-0/L-409-2 |
+| A4N | Wed (21:00 - 23:00) <br/> Thu (19:00 - 21:00) | S-106-0/L-409-2 |
+| B1N | Mon (21:00 - 23:00) <br/> Wed (19:00 - 21:00) | S-311-1/L506 |
+| B2N | Mon (21:00 - 23:00) <br/> Wed (19:00 - 21:00) | S-311-1/L502 |
+| B3N | Mon (21:00 - 23:00) <br/> Wed (19:00 - 21:00) | S-311-1/L505 |
+
+**Office Hours**
+
+|  Who?  | Meeting Time | Classroom Location |
+| :-----------------------: | :--------------------------: | :--------------------: |
+| Prof. Dr. Emilio Francesquini | Mon (10:00 - 12:00) <br/> Wed (13:00 - 15:00) | S-531-2 |
+| Profa. Dra. Carla Negri Lintzmayer | Tue (13:00 - 15:00) <br/> Thu (13:00 - 15:00) | S-508-2 |
 
 ---
 
