@@ -27,20 +27,20 @@
 | A1D | Wed (10:00 - 12:00) <br/> Thu (08:00 - 10:00) | S-311-1/L-409-2 |
 | A2D | Wed (10:00 - 12:00) <br/> Thu (08:00 - 10:00) | S-311-1/L-404-2 |
 | A3D | Wed (10:00 - 12:00) <br/> Thu (08:00 - 10:00) | S-306-2/L-407-2 |
+| A1N | Wed (21:00 - 23:00) <br/> Thu (19:00 - 21:00) | S-301-1/L-409-2 |
+| A2N | Wed (21:00 - 23:00) <br/> Thu (19:00 - 21:00) | S-301-1/L-404-2 |
+| A3N | Wed (21:00 - 23:00) <br/> Thu (19:00 - 21:00) | S-106-0/L-409-2 |
+| A4N | Wed (21:00 - 23:00) <br/> Thu (19:00 - 21:00) | S-106-0/L-409-2 |
 | B1D | Mon (10:00 - 12:00) <br/> Thu (08:00 - 10:00) | S-311-1/L506 |
 | B2D | Mon (10:00 - 12:00) <br/> Thu (08:00 - 10:00) | S-311-1/L502 |
+| B1N | Mon (21:00 - 23:00) <br/> Wed (19:00 - 21:00) | S-311-1/L506 |
+| B2N | Mon (21:00 - 23:00) <br/> Wed (19:00 - 21:00) | S-311-1/L502 |
+| B3N | Mon (21:00 - 23:00) <br/> Wed (19:00 - 21:00) | S-311-1/L505 |
 | C1D | Mon (17:00 - 19:00) <br/> Thu (17:00 - 19:00) | S-006-0/L502 |
 | C2D | Mon (17:00 - 19:00) <br/> Thu (17:00 - 19:00) | S-006-0/L506 |
 | C3D | Mon (17:00 - 19:00) <br/> Thu (17:00 - 19:00) | S-301-2/L501 |
 | C4D | Mon (17:00 - 19:00) <br/> Thu (17:00 - 19:00) | S-301-2/L505 |
 | C5D | Mon (17:00 - 19:00) <br/> Thu (17:00 - 19:00) | S-306-1/L-407-2 |
-| A1N | Wed (21:00 - 23:00) <br/> Thu (19:00 - 21:00) | S-301-1/L-409-2 |
-| A2N | Wed (21:00 - 23:00) <br/> Thu (19:00 - 21:00) | S-301-1/L-404-2 |
-| A3N | Wed (21:00 - 23:00) <br/> Thu (19:00 - 21:00) | S-106-0/L-409-2 |
-| A4N | Wed (21:00 - 23:00) <br/> Thu (19:00 - 21:00) | S-106-0/L-409-2 |
-| B1N | Mon (21:00 - 23:00) <br/> Wed (19:00 - 21:00) | S-311-1/L506 |
-| B2N | Mon (21:00 - 23:00) <br/> Wed (19:00 - 21:00) | S-311-1/L502 |
-| B3N | Mon (21:00 - 23:00) <br/> Wed (19:00 - 21:00) | S-311-1/L505 |
 
 **Office Hours**
 
@@ -60,11 +60,16 @@ I'm using some emojis to give you more information about these links.
 
 - Books
 
-	- 
+	- [The C Library Reference Guide](https://www-s.acm.illinois.edu/webmonkeys/book/c_guide/)
 
 - Courses, Movies, Videos and Tutorials 
 
-	- 
+	- [Prof. Paulo Feofiloff - IME/USP]() :free:
+	- [Prof. Rafael C. S. Schouery - IC/Unicamp](http://ic.unicamp.br/~rafael/cursos/1s2018/mc202/index.html) :free:
+	- [Introdução à Computação  - IME/USP](http://www.ime.usp.br/~jose/mac2166-06/indice.html) :free:
+	- [Introdução a Computação - IME/USP](https://www.ime.usp.br/~reverbel/mac110/) :free:
+	- [Prof. Emilio Francesquini - IC/Unicamp](http://www.ic.unicamp.br/~francesquini/mc202/) :free:
+	- [Algoritmos e Programação de Computadores](http://www.ic.unicamp.br/~francesquini/mc102/) :free:
 
 - Tutorials and Articles
 
