@@ -17,6 +17,7 @@
 - [Luiz Carlos da Silva Rozante](http://tidia4.ufabc.edu.br/portal/site/cacab827-4c5b-49c9-b950-dcb3d0ff4c9f/)
 - [Guilherme de Oliveira Mota](http://tidia4.ufabc.edu.br/portal/site/4f85e2d9-8a8a-4d1e-ad47-43fdae1b069d)
 - [Mario Alexandre Gazziro](http://professor.ufabc.edu.br/~mario.gazziro/)
+- [Paulo Joia](http://paulojoia.orgfree.com/Home--Disciplinas_-_Turmas--Programa%C3%A7%C3%A3o_Estruturada.html)
 
 ---
 
