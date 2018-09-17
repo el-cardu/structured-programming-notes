@@ -58,6 +58,11 @@ I'm using some emojis to give you more information about these links.
 1. :moneybag: are paid tutorials, :free: are free tutorials. Sometimes you will have some free videos/articles and other paid on the same website.
 2. :video_camera: is present when video content is available
 
+- Communities
+
+	- [UFABC - Programação Estruturada - 2018.3](https://chat.whatsapp.com/5108jxYKFY50pLD5wJ5Qk9)
+	- [UFABC - Programação Estruturada (Pisani) - 2018.3](https://chat.whatsapp.com/8nbuXKvJqCv6ML30cKoX1H)
+
 - Books
 
 	- [The C Library Reference Guide - Eric Huss](https://www-s.acm.illinois.edu/webmonkeys/book/c_guide/) :free:
