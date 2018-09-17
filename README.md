@@ -25,44 +25,44 @@
 **Be careful: ** this schedule is oriented to my professor (Rozante/Mota).
 
 **Week 01** <br/> 
-[19/09 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/01.md) <br/>
-[20/09 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/02.md)
+[18/09 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/01.md) <br/>
+[21/09 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/02.md)
 
 **Week 02** <br/>
-[26/09 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/03.md) <br/>
-[27/09 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/04.md)
+[25/09 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/03.md) <br/>
+[28/09 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/04.md)
 
 **Week 03** <br/>
-[03/10 | ??? ](https://github.com/el-cardu/structured-programming-notess/blob/master/notes/05.md) <br/>
-[04/10 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/06.md)
+[02/10 | ??? ](https://github.com/el-cardu/structured-programming-notess/blob/master/notes/05.md) <br/>
+[05/10 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/06.md)
 
 **Week 04** <br/>
-[10/10 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/07.md) <br/>
-[11/10 | ??? ](https://github.com/el-cardu/structured-programming-notesblob/master/notes/08.md)
+[09/10 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/07.md) <br/>
+[12/10 | ??? ](https://github.com/el-cardu/structured-programming-notesblob/master/notes/08.md)
 
 **Week 05** <br/>
-[17/10 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/09.md) <br/>
-[18/10 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/10.md)
+[16/10 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/09.md) <br/>
+[19/10 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/10.md)
 
 **Week 06** <br/>
-[24/10 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/11.md) <br/>
-[25/10 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/12.md)
+[23/10 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/11.md) <br/>
+[26/10 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/12.md)
 
 **Week 07** <br/>
-[31/10 | ???  ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/13.md) <br/>
-[01/11 | ???  ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/14.md)
+[30/10 | ???  ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/13.md) <br/>
+[02/11 | ???  ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/14.md)
 
 **Week 08** <br/>
-[07/11 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/15.md) <br/>
-[08/11 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/16.md)
+[06/11 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/15.md) <br/>
+[09/11 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/16.md)
 
 **Week 09** <br/>
-[14/11 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/17.md) <br/>
-[15/11 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/18.md)
+[13/11 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/17.md) <br/>
+[16/11 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/18.md)
 
 **Week 10** <br/>
-[21/11 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/19.md) <br/>
-[22/11 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/20.md)
+[20/11 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/19.md) <br/>
+[23/11 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/20.md)
 
 **Week 11** <br/>
 [28/11 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/21.md)<br/>
