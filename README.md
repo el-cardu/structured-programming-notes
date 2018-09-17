@@ -22,7 +22,7 @@
 
 ## Schedule/Notes
 
-**Be careful: ** this schedule is oriented to my professor (Rozante/Mota).
+**Be careful:** this schedule is oriented to my professor (Rozante/Mota).
 
 **Week 01** <br/> 
 [18/09 | ??? ](https://github.com/el-cardu/structured-programming-notes/blob/master/notes/01.md) <br/>
